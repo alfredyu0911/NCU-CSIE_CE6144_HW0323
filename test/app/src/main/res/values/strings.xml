@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CE6144, hw 0323</string>
+    <string name="KEY_NAME">Name</string>
+    <string name="KEY_GENDER">gender</string>
+    <string name="KEY_BIRTHDAY">birthday</string>
+    <string name="KEY_BLOODTYPE">bloodType</string>
+    <string name="KEY_HIGHT">hight</string>
+    <string name="KEY_WEIGHT">weight</string>
+    <string name="TextView_Brithday_default">(請點選右方按鈕以選擇日期)</string>
+    <string-array name="dataArrayOfSpinner">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+</resources>

@@ -1,1 +1,4 @@
-# NCU-CSIE_CE6144_HW0323
+# NCU CSIE
+## CE6144
+### Homework 0323
+
